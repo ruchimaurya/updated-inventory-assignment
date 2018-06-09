@@ -1,0 +1,14 @@
+C:\Users\Ruchimaurya\source\repos\inventory system\inventory system\bin\Debug\inventory system.exe.config
+C:\Users\Ruchimaurya\source\repos\inventory system\inventory system\bin\Debug\inventory system.exe
+C:\Users\Ruchimaurya\source\repos\inventory system\inventory system\bin\Debug\inventory system.pdb
+C:\Users\Ruchimaurya\source\repos\inventory system\inventory system\obj\Debug\inventory system.csprojAssemblyReference.cache
+C:\Users\Ruchimaurya\source\repos\inventory system\inventory system\obj\Debug\inventory system.csproj.CoreCompileInputs.cache
+C:\Users\Ruchimaurya\source\repos\inventory system\inventory system\obj\Debug\inventory system.exe
+C:\Users\Ruchimaurya\source\repos\inventory system\inventory system\obj\Debug\inventory system.pdb
+C:\Users\Ruchimaurya\source\repos\inventory\inventory system\obj\Debug\inventory system.csprojAssemblyReference.cache
+C:\Users\Ruchimaurya\source\repos\inventory\inventory system\obj\Debug\inventory system.csproj.CoreCompileInputs.cache
+C:\Users\Ruchimaurya\source\repos\inventory\inventory system\obj\Debug\inventory system.exe
+C:\Users\Ruchimaurya\source\repos\inventory\inventory system\obj\Debug\inventory system.pdb
+C:\Users\Ruchimaurya\source\repos\inventory\inventory system\bin\Debug\inventory system.exe.config
+C:\Users\Ruchimaurya\source\repos\inventory\inventory system\bin\Debug\inventory system.exe
+C:\Users\Ruchimaurya\source\repos\inventory\inventory system\bin\Debug\inventory system.pdb
